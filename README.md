@@ -9,7 +9,7 @@ Solution:
 We compare each pair of numbers to see if they can form a rectangle.
 There are 3 possibilities: [(A, B), (C, D)], [(A, C), (B, D)], [(A, D), (B, C)]
 
-The $compare$ circuit is divided into 3 parts:
+The ``` _compare_ ``` circuit is divided into 3 parts:
 * Encoding: encode the numbers into quantum circuit
 * Operation: We apply quantum gates to check if the numbers are equal
 * Measurement: Finally, the measurement of 0 => equal and 1 => unequal
