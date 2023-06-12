@@ -1,5 +1,5 @@
 This repo contains the work done under the QOSF Mentorship program (Cohort #7) during April-June, 2023. \
-My team consists of [Jacob Vaknin](https://www.linkedin.com/in/kobevaknin/) and [Sanaa Agarwal](https://www.linkedin.com/in/sanaa-agarwal-837596106/) under the mentorship of [Vesselin Gueorguiev](https://www.linkedin.com/in/vesselin-gueorguiev/).
+My team consists of [Jacob Vaknin](https://www.linkedin.com/in/kobevaknin/) and [Sanaa Agarwal](https://www.linkedin.com/in/sanaa-agarwal-837596106/) under the mentorship of [Vesselin Gueorguiev](https://www.linkedin.com/in/vgg-consulting/).
 
 # Heterogenous Vehicle Routing
 The [Heterogeneous Vehicle Routing Problem](https://ieeexplore.ieee.org/document/8541149) is an operational management problem in the field of distribution and logistics. In this problem, routes have to be designed starting from a depot to the geographically spread customer zones with an objective to minimize distance or cost and fulfilling the customer demands.
